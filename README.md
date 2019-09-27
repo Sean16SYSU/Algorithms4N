@@ -9,5 +9,6 @@ Algorithms for Neophyte
 
 ## Numerical Analysis
 
-* Newton-Raphson method
+* Newton-Raphson's method
   * Sqrt(N)
+* Horner's method, published in 1819 (also called as QinJiuSao's method, published in 1247)
