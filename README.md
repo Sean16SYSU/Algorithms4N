@@ -2,7 +2,7 @@
 
 Algorithms for Neophyte
 
-Some README statments include mathematical expression, and the Markdown in github fail to support it, so I put the README documents in jupyter notebook which you can directly, **without any more operations**, open and view online in github, but if you want to read it in your own computer offline, jupyter server need to be set up beforehand. Don't worry, it is easy and there are huge number of tutorials to explain how to do it in the Internet. 
+Some README statments include mathematical expressions which the Markdown in GitHub fails to support, so I put the README documents in jupyter notebooks which you can directly, **without any more operations**, open and view online in github(Well, sometimes it does need several times reloading...), but if you want to read it in your own computer offline, jupyter server need to be set up beforehand. Don't worry, it is easy and there are huge number of tutorials to explain how to do it in the Internet. 
 
 One efficient way is show below,
 1. Download Python and setup. <https://www.python.org> pretty easy and just choose the default button and it will take less than 1 minutes.
