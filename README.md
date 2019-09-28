@@ -20,3 +20,13 @@ One efficient way is show below,
 * Newton-Raphson's method
   * Sqrt(N)
 * Horner's method, published in 1819 (also called as QinJiuSao's method, published in 1247)
+* 不动点迭代法
+* Steffensen method
+
+## Genetic Algorithm
+
+* TSP
+  * GA--version1
+  * GA--version2
+
+
