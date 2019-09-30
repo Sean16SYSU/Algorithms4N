@@ -1,6 +1,6 @@
 # Algorithms4N
 
-Algorithms for Neophyte
+Algorithms for Neophyte. This project constains some codes that I wrote in college, and I am desire to sort out them according to the algorihtms it utilized. 
 
 ##  DFS (Depth First Search)
 
