@@ -28,5 +28,6 @@ One efficient way is show below,
 * TSP
   * GA--version1
   * GA--version2
-
+  * GA-Python implement
+  * GA-Python implement and generate GIF for exhitation
 
