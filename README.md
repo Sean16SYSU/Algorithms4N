@@ -4,9 +4,17 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
 
 ## Sort
 
-* BubbleSort 冒泡排序
 * SimpleSort 简单排序
-
+* BubbleSort 冒泡排序
+* InsertSort 插入排序
+* SelectSort 选择排序
+* MergeSort 归并排序
+* QuickSort 快速排序(快排)
+* BinaryInsertSort 二分插入排序
+* ShellSort 希尔排序
+* HeapSort 堆排序
+* BucketSort 桶排序
+* RadixSort 基数排序
 
 ## Search
 
@@ -48,3 +56,9 @@ One efficient way is show below,
 2. Enter command line operation system(cmd), namely Terminal. And input "pip install jupyter", press "Enter" button in your keyboard and wait for another 1 minute.
 3. If you success in the preceding 2 minutes, then you just need to input "jupyter notebook" in Terminal, press "Enter" button in your keyboard. Every thing is all right now.
 4. What's more, you should enter the certain folder, or any parent folder of it, where you put the notebook in Terminal before inputing "jupyter notebook" in Terminal. Or you can just enter the folder and call for Terminal in the certain folder, which I believe more convinient.
+
+# 参考书籍
+
+* 《数据结构》 殷人昆
+* 《算法设计与分析》郑宗汉 郑晓明
+* 《数值分析》李庆扬 王大能 易大义
