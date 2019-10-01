@@ -15,6 +15,8 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
 * HeapSort 堆排序
 * BucketSort 桶排序
 * Quick-Simple-Sort 快速-简单排序算法
+  * Quick-Insert-Sort
+  * HybridSort
 
 ## Search
 
