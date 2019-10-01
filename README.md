@@ -4,9 +4,15 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
 
 ## Sort
 
-* BubbleSort
-* SimpleSort
-  
+* BubbleSort 冒泡排序
+* SimpleSort 简单排序
+
+
+## Search
+
+* linear Search 线性搜索
+* binary Search 二叉搜索
+
 ##  DFS (Depth First Search)
 
 * 24 Points
