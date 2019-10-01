@@ -2,10 +2,32 @@
 using namespace std;
 #define MAX 100
 
+void InsertSort(double *arr, int s, int e)
+{
+    double tmp;
+    int i, j;
+    for (i = 1 + s; i < e + 1; ++i)
+    {
+        if (arr[i] < arr[i - 1])
+        {
+            tmp = arr[i];
+            j = i - 1;
+            do
+            {
+                arr[j + 1] = arr[j--];
+            } while (j >= s && tmp < arr[j]);
+            arr[j + 1] = tmp;
+        }
+    }
+}
+
 void QuickSort(double *arr, int s, int e)
 {
-    if (s >= e)
+    if (e - s < 5)
+    {
+        InsertSort(arr, s, e);
         return;
+    }
     int i = s, j = e;
     double key = arr[s];
     while (i < j)
