@@ -18,6 +18,15 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
   * Quick-Insert-Sort
   * HybridSort
 
+## Recursion and Divide-and-Conquer Algorithm 递归和分治
+
+* Power 整数的幂计算 O(log n)
+* 整数划分问题
+
+## Dynamic Programming 动态规划
+
+* 整数划分问题
+
 ## Search
 
 * linear Search 线性搜索
