@@ -29,16 +29,24 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
 ## Dynamic Programming 动态规划
 
 * 整数划分问题
-* 背包问题
+* PathsCounting
+* Zipper
 
 ## Search
 
 * linear Search 线性搜索
 * binary Search 二叉搜索
 
+## BFS (Breath Firth Search)
+
+* Escape
+* Food Cubes
+
 ## DFS (Depth First Search)
 
 * 24 Points
+* Phone Home
+* 连通块
 
 ## Numerical Analysis
 
