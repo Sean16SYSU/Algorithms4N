@@ -22,10 +22,14 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
 
 * Power 整数的幂计算 O(log n)
 * 整数划分问题
+* MergeSort 归并排序
+* QuickSort 快速排序
+* Select algorithm 选择算法（O(n)时间找到第k大或者第k小的元素）
 
 ## Dynamic Programming 动态规划
 
 * 整数划分问题
+* 背包问题
 
 ## Search
 
