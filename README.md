@@ -48,6 +48,11 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
 * Phone Home
 * 连通块
 
+## Graph Algorithm
+
+* Prim Algorithm
+  * Highways
+
 ## Numerical Analysis
 
 * Newton-Raphson's method
