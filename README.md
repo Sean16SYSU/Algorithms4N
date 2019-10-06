@@ -46,7 +46,11 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
 
 * 24 Points
 * Phone Home
+* LongestSentence
+* ComeHome
 * 连通块
+* 最短路径1
+* 最短路径2
 
 ## Graph Algorithm
 
