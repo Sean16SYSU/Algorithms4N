@@ -4,7 +4,7 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
 
 * [BFS](\BFS)
    * [Escape](\BFS\Escape)
-   * [Food Cubes](\BFS\Food Cubes)
+   * [Food Cubes](\BFS\Food%20Cubes)
 * [DFS](\DFS)
    * [24 points](\DFS\24 points)
    * [ComeHome](\DFS\ComeHome)
