@@ -2,81 +2,57 @@
 
 Algorithms for Neophyte. This project constains some codes that I wrote in college, and I am desire to sort them out according to the algorihtms it utilized.
 
-## Sort
+* [BFS](\BFS)
+   * [Escape](\BFS\Escape)
+   * [Food Cubes](\BFS\Food Cubes)
+* [DFS](\DFS)
+   * [24 points](\DFS\24 points)
+   * [ComeHome](\DFS\ComeHome)
+   * [LongestSentence](\DFS\LongestSentence)
+   * [Phone Home](\DFS\Phone Home)
+   * [最短路径1](\DFS\最短路径1)
+   * [最短路径2](\DFS\最短路径2)
+   * [连通块](\DFS\连通块)
+* [Dynamic Programming](\Dynamic Programming)
+   * [PathsCounting](\Dynamic Programming\PathsCounting)
+   * [Zipper](\Dynamic Programming\Zipper)
+   * [整数划分](\Dynamic Programming\整数划分)
+* [Genetic Algorithm](\Genetic Algorithm)
+   * [TSP](\Genetic Algorithm\TSP)
+* [Graph Algorithms](\Graph Algorithms)
+   * [Prim Algorithm](\Graph Algorithms\Prim Algorithm)
+      * [Highways](\Graph Algorithms\Prim Algorithm\Highways)
+* [Numerical Analysis](\Numerical Analysis)
+   * [Horner method](\Numerical Analysis\Horner method)
+   * [Newton-Raphson method](\Numerical Analysis\Newton-Raphson method)
+      * [sqrt](\Numerical Analysis\Newton-Raphson method\sqrt)
+   * [Steffensen method](\Numerical Analysis\Steffensen method)
+   * [不动点以及其迭代](\Numerical Analysis\不动点以及其迭代)
+* [Recursion and Divide-and-Conquer Algorithm](\Recursion and Divide-and-Conquer Algorithm)
+   * [MergeSort](\Recursion and Divide-and-Conquer Algorithm\MergeSort)
+   * [power](\Recursion and Divide-and-Conquer Algorithm\power)
+   * [QuickSort](\Recursion and Divide-and-Conquer Algorithm\QuickSort)
+   * [Select](\Recursion and Divide-and-Conquer Algorithm\Select)
+   * [整数划分](\Recursion and Divide-and-Conquer Algorithm\整数划分)
+* [Search](\Search)
+   * [Binary Search](\Search\Binary Search)
+   * [linear Search](\Search\linear Search)
+* [Simulated Annealing Algorithm](\Simulated Annealing Algorithm)
+   * [TSP](\Simulated Annealing Algorithm\TSP)
+   * [函数极值问题](\Simulated Annealing Algorithm\函数极值问题)
+* [Sort](\Sort)
+   * [BinaryInsertSort](\Sort\BinaryInsertSort)
+   * [BubbleSort](\Sort\BubbleSort)
+   * [BucketSort](\Sort\BucketSort)
+   * [HeapSort](\Sort\HeapSort)
+   * [InsertSort](\Sort\InsertSort)
+   * [MergeSort](\Sort\MergeSort)
+   * [Quick-Simple-Sort](\Sort\Quick-Simple-Sort)
+   * [QuickSort](\Sort\QuickSort)
+   * [SelectSort](\Sort\SelectSort)
+   * [ShellSort](\Sort\ShellSort)
+   * [SimpleSort](\Sort\SimpleSort)
 
-* SimpleSort 简单排序
-* BubbleSort 冒泡排序
-* InsertSort 插入排序
-* SelectSort 选择排序
-* MergeSort 归并排序，或者双向归并排序(改进不多，就没写上)
-* QuickSort 快速排序(快排)
-* BinaryInsertSort 二分插入排序
-* ShellSort 希尔排序
-* HeapSort 堆排序
-* BucketSort 桶排序
-* Quick-Simple-Sort 快速-简单排序算法
-  * Quick-Insert-Sort
-  * HybridSort
-
-## Recursion and Divide-and-Conquer Algorithm 递归和分治
-
-* Power 整数的幂计算 O(log n)
-* 整数划分问题
-* MergeSort 归并排序
-* QuickSort 快速排序
-* Select algorithm 选择算法（O(n)时间找到第k大或者第k小的元素）
-
-## Dynamic Programming 动态规划
-
-* 整数划分问题
-* PathsCounting
-* Zipper
-
-## Search
-
-* linear Search 线性搜索
-* binary Search 二叉搜索
-
-## BFS (Breath Firth Search)
-
-* Escape
-* Food Cubes
-
-## DFS (Depth First Search)
-
-* 24 Points
-* Phone Home
-* LongestSentence
-* ComeHome
-* 连通块
-* 最短路径1
-* 最短路径2
-
-## Graph Algorithm
-
-* Prim Algorithm
-  * Highways
-
-## Numerical Analysis
-
-* Newton-Raphson's method
-  * Sqrt(N)
-* Horner's method, published in 1819 (also called as QinJiuSao's method, published in 1247)
-* 不动点迭代法
-* Steffensen method
-
-## Genetic Algorithm
-
-* TSP
-  * GA--version1
-  * GA--version2
-  * GA-Python implement
-  * GA-Python implement and generate GIF for exhitation
-
-## Simulated Annealing Algorithm
-
-* 函数极值问题
-* TSP
 
 Some README statments include mathematical expressions which the Markdown in GitHub fails to support, so I put the README documents in jupyter notebooks which you can directly, **without any more operations**, open and view online in github(Well, sometimes it does need several times reloading...), but if you want to read it in your own computer offline, jupyter server needs to be set up beforehand. Don't worry, it is easy and there are huge number of tutorials to explain how to do it in the Internet.
 
