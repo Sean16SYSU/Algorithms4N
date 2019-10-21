@@ -20,7 +20,7 @@ def toc(file='README.md',
                 if os.path.isdir(totalpath) or stopwith == 'file':
                     if withlink:
                         totalstr_arr += [
-                            '* [' + name + ']({0})'.format(totalpath[1:])
+                            '* [' + name + ']({0})'.format(totalpath[1:].replace(' ', '%20'))
                         ]
                     else:
                         totalstr_arr += ['* ' + name]
