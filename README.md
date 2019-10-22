@@ -2,6 +2,8 @@
 
 Algorithms for Neophyte. This project constains some codes that I wrote in college, and I am desire to sort them out according to the algorihtms it utilized.
 
+## Content
+
 * [BFS](\BFS)
    * [Escape](\BFS\Escape)
    * [Food Cubes](\BFS\Food%20Cubes)
@@ -56,6 +58,10 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
    * [SelectSort](\Sort\SelectSort)
    * [ShellSort](\Sort\ShellSort)
    * [SimpleSort](\Sort\SimpleSort)
+* [String](\String)
+   * [Manacher's algorithm](\String\Manacher's%20algorithm)
+
+## Additional Explaination
 
 Some README statments include mathematical expressions which the Markdown in GitHub fails to support, so I put the README documents in jupyter notebooks which you can directly, **without any more operations**, open and view online in github(Well, sometimes it does need several times reloading...), but if you want to read it in your own computer offline, jupyter server needs to be set up beforehand. Don't worry, it is easy and there are huge number of tutorials to explain how to do it in the Internet.
 
