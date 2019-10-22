@@ -14,6 +14,10 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
    * [最短路径2](\DFS\最短路径2)
    * [连通块](\DFS\连通块)
 * [Dynamic Programming](\Dynamic%20Programming)
+   * [longest-palindromic-substring](\Dynamic%20Programming\longest-palindromic-substring)
+      * [longest-palindromic-substring1](\Dynamic%20Programming\longest-palindromic-substring\longest-palindromic-substring1)
+      * [longest-palindromic-substring2](\Dynamic%20Programming\longest-palindromic-substring\longest-palindromic-substring2)
+      * [longest-palindromic-substring3](\Dynamic%20Programming\longest-palindromic-substring\longest-palindromic-substring3)
    * [PathsCounting](\Dynamic%20Programming\PathsCounting)
    * [Zipper](\Dynamic%20Programming\Zipper)
    * [整数划分](\Dynamic%20Programming\整数划分)
@@ -52,7 +56,6 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
    * [SelectSort](\Sort\SelectSort)
    * [ShellSort](\Sort\ShellSort)
    * [SimpleSort](\Sort\SimpleSort)
-
 
 Some README statments include mathematical expressions which the Markdown in GitHub fails to support, so I put the README documents in jupyter notebooks which you can directly, **without any more operations**, open and view online in github(Well, sometimes it does need several times reloading...), but if you want to read it in your own computer offline, jupyter server needs to be set up beforehand. Don't worry, it is easy and there are huge number of tutorials to explain how to do it in the Internet.
 
