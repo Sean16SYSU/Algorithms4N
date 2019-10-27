@@ -26,6 +26,7 @@ Algorithms for Neophyte. This project constains some codes that I wrote in colle
       * [不同路径1](\Dynamic%20Programming\不同路径\不同路径1)
       * [不同路径2](\Dynamic%20Programming\不同路径\不同路径2)
    * [整数划分](\Dynamic%20Programming\整数划分)
+   * [最小路径和](\Dynamic%20Programming\最小路径和)
    * [爬楼梯](\Dynamic%20Programming\爬楼梯)
 * [Genetic Algorithm](\Genetic%20Algorithm)
    * [TSP](\Genetic%20Algorithm\TSP)
